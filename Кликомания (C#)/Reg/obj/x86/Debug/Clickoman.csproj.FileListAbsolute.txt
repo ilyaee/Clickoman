@@ -1,0 +1,28 @@
+C:\Users\Ilya\Desktop\1 курс\Кликомания (C#)\Reg\obj\x86\Debug\Reg.exe
+C:\Users\Ilya\Desktop\1 курс\Кликомания (C#)\Reg\obj\x86\Debug\Reg.pdb
+C:\Users\Ilya\Desktop\1 курс\Кликомания (C#)\Reg\bin\Debug\Reg.exe
+C:\Users\Ilya\Desktop\1 курс\Кликомания (C#)\Reg\bin\Debug\Reg.pdb
+C:\Users\Ilya\Desktop\1 курс\Кликомания (C#)\Reg\obj\x86\Debug\Reg.GameForm.resources
+C:\Users\Ilya\Desktop\1 курс\Кликомания (C#)\Reg\obj\x86\Debug\Reg.Properties.Resources.resources
+C:\Users\Ilya\Desktop\1 курс\Кликомания (C#)\Reg\obj\x86\Debug\Reg.RegistrationForm.resources
+C:\Users\Ilya\Desktop\1 курс\Кликомания (C#)\Reg\obj\x86\Debug\Clickoman.csproj.GenerateResource.Cache
+C:\Users\Ilya\Desktop\1 курс\Кликомания (C#)\Reg\obj\x86\Debug\Clickoman.csprojResolveAssemblyReference.cache
+C:\Users\Ilya\Desktop\Кликомания (C#)\Reg\obj\x86\Debug\Reg.exe
+C:\Users\Ilya\Desktop\Кликомания (C#)\Reg\obj\x86\Debug\Reg.pdb
+C:\Users\Ilya\Desktop\Кликомания (C#)\Reg\bin\Debug\Reg.exe
+C:\Users\Ilya\Desktop\Кликомания (C#)\Reg\bin\Debug\Reg.pdb
+C:\Users\Ilya\Desktop\Кликомания (C#)\Reg\obj\x86\Debug\Clickoman.csprojResolveAssemblyReference.cache
+C:\Users\Ilya\Desktop\Кликомания (C#)\Reg\obj\x86\Debug\Reg.GameForm.resources
+C:\Users\Ilya\Desktop\Кликомания (C#)\Reg\obj\x86\Debug\Reg.Properties.Resources.resources
+C:\Users\Ilya\Desktop\Кликомания (C#)\Reg\obj\x86\Debug\Reg.RegistrationForm.resources
+C:\Users\Ilya\Desktop\Кликомания (C#)\Reg\obj\x86\Debug\Clickoman.csproj.GenerateResource.Cache
+C:\Users\eliso\Desktop\Education\2 курс\Кликомания (C#)\Reg\bin\Debug\Reg.exe
+C:\Users\eliso\Desktop\Education\2 курс\Кликомания (C#)\Reg\bin\Debug\Reg.pdb
+C:\Users\eliso\Desktop\Education\2 курс\Кликомания (C#)\Reg\obj\x86\Debug\Clickoman.csprojAssemblyReference.cache
+C:\Users\eliso\Desktop\Education\2 курс\Кликомания (C#)\Reg\obj\x86\Debug\Reg.GameForm.resources
+C:\Users\eliso\Desktop\Education\2 курс\Кликомания (C#)\Reg\obj\x86\Debug\Reg.Properties.Resources.resources
+C:\Users\eliso\Desktop\Education\2 курс\Кликомания (C#)\Reg\obj\x86\Debug\Reg.RegistrationForm.resources
+C:\Users\eliso\Desktop\Education\2 курс\Кликомания (C#)\Reg\obj\x86\Debug\Clickoman.csproj.GenerateResource.cache
+C:\Users\eliso\Desktop\Education\2 курс\Кликомания (C#)\Reg\obj\x86\Debug\Clickoman.csproj.CoreCompileInputs.cache
+C:\Users\eliso\Desktop\Education\2 курс\Кликомания (C#)\Reg\obj\x86\Debug\Reg.exe
+C:\Users\eliso\Desktop\Education\2 курс\Кликомания (C#)\Reg\obj\x86\Debug\Reg.pdb

@@ -1,0 +1,18 @@
+C:\Users\Ilya\Desktop\Кликомания (C#)\Reg\bin\Release\Reg.exe
+C:\Users\Ilya\Desktop\Кликомания (C#)\Reg\bin\Release\Reg.pdb
+C:\Users\Ilya\Desktop\Кликомания (C#)\Reg\obj\x86\Release\Reg.csprojResolveAssemblyReference.cache
+C:\Users\Ilya\Desktop\Кликомания (C#)\Reg\obj\x86\Release\Reg.GameForm.resources
+C:\Users\Ilya\Desktop\Кликомания (C#)\Reg\obj\x86\Release\Reg.Properties.Resources.resources
+C:\Users\Ilya\Desktop\Кликомания (C#)\Reg\obj\x86\Release\Reg.RegistrationForm.resources
+C:\Users\Ilya\Desktop\Кликомания (C#)\Reg\obj\x86\Release\Reg.csproj.GenerateResource.Cache
+C:\Users\Ilya\Desktop\Кликомания (C#)\Reg\obj\x86\Release\Reg.exe
+C:\Users\Ilya\Desktop\Кликомания (C#)\Reg\obj\x86\Release\Reg.pdb
+C:\Users\Ilya\Desktop\1 курс\Кликомания (C#)\Reg\obj\x86\Release\Reg.exe
+C:\Users\Ilya\Desktop\1 курс\Кликомания (C#)\Reg\obj\x86\Release\Reg.pdb
+C:\Users\Ilya\Desktop\1 курс\Кликомания (C#)\Reg\bin\Release\Reg.exe
+C:\Users\Ilya\Desktop\1 курс\Кликомания (C#)\Reg\bin\Release\Reg.pdb
+C:\Users\Ilya\Desktop\1 курс\Кликомания (C#)\Reg\obj\x86\Release\Reg.csprojResolveAssemblyReference.cache
+C:\Users\Ilya\Desktop\1 курс\Кликомания (C#)\Reg\obj\x86\Release\Reg.GameForm.resources
+C:\Users\Ilya\Desktop\1 курс\Кликомания (C#)\Reg\obj\x86\Release\Reg.Properties.Resources.resources
+C:\Users\Ilya\Desktop\1 курс\Кликомания (C#)\Reg\obj\x86\Release\Reg.RegistrationForm.resources
+C:\Users\Ilya\Desktop\1 курс\Кликомания (C#)\Reg\obj\x86\Release\Reg.csproj.GenerateResource.Cache
